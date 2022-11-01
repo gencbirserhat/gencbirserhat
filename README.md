@@ -43,7 +43,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 ## 🐍
   <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/gencbirserhat/gencbirserhat/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 <hr/>
