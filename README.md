@@ -20,22 +20,22 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 <hr/> 
 
 ## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gencbirserhat&theme=algolia" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gencbirserhat&theme=algolia" alt="gencbirserhat" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gencbirserhat&theme=algolia&layout=compact" alt="gencbirserhat" /></p>
 
 <br>
 <hr/>
 
 ## 🏆 Trophies
-<p align="center"> <a href="https://github.com/jaypavasiya"><img
-      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="jaypavasiya" /></a>  </p>
+<p align="center"> <a href="https://github.com/gencbirserhat"><img
+      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="gencbirserhat" /></a>  </p>
 
 <!-- algolia -->
 <br>
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/jaypavasiya"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jaypavasiya&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/gencbirserhat"><img alt="jay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gencbirserhat&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
 
 
 <hr/>
@@ -43,7 +43,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 ## 🐍
   <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/gencbirserhat/gencbirserhat/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 <hr/>
