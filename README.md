@@ -20,8 +20,8 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 <hr/> 
 
 ## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaypavasiya&theme=algolia" alt="jaypavasiya" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&theme=algolia&layout=compact" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gencbirserhat&theme=algolia" alt="jaypavasiya" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gencbirserhat&theme=algolia&layout=compact" alt="gencbirserhat" /></p>
 
 <br>
 <hr/>
