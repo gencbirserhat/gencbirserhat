@@ -13,7 +13,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 </h4>
 <br>
 <div align="center">
-  <a href="[https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v](https://open.spotify.com/track/6zNWCirgbJ9nkwZlVeMY3T?si=99f486d122684fde)">
+  <a href="https://open.spotify.com/track/6zNWCirgbJ9nkwZlVeMY3T?si=99f486d122684fde">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div >
