@@ -23,16 +23,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gencbirserhat&theme=algolia" alt="gencbirserhat" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gencbirserhat&theme=algolia&layout=compact" alt="gencbirserhat" /></p>
 
-<br>
-<!--hr/>
 
-## 🏆 Trophies
-<p align="center"> <a href="https://github.com/gencbirserhat"><img
-      src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="gencbirserhat" /></a>  </p>
-
-<!-- algolia -->
-<--br>
-<hr/>
 
 ## ⚡ Recent GitHub Activity
 <a href="https://github.com/gencbirserhat"><img alt="Serhat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gencbirserhat&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
