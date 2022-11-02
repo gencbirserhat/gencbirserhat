@@ -7,10 +7,10 @@
 <hr/>
 <!-- I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
 
-<h4 align="center">
+<!--h4 align="center">
 I'm a Front End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤️. <br />
 	Besides my job, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
-</h4>
+</h4-->
 <br>
 <!--div align="center">
   <a href="https://open.spotify.com/track/6zNWCirgbJ9nkwZlVeMY3T?si=99f486d122684fde">
@@ -24,14 +24,14 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gencbirserhat&theme=algolia&layout=compact" alt="gencbirserhat" /></p>
 
 <br>
-<hr/>
+<!--hr/>
 
 ## 🏆 Trophies
 <p align="center"> <a href="https://github.com/gencbirserhat"><img
       src="https://github-profile-trophy.vercel.app/?username=jaypavasiya&row=1&column=3&theme=algolia" alt="gencbirserhat" /></a>  </p>
 
 <!-- algolia -->
-<br>
+<--br>
 <hr/>
 
 ## ⚡ Recent GitHub Activity
