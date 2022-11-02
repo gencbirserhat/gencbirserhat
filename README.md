@@ -50,7 +50,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 	
 </p>
 
-----
+
 Credit: [gencbirserhat](https://github.com/gencbirserhat)
 
 Last Edited on: 04/15/2022
