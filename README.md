@@ -11,7 +11,7 @@
 I'm a Front End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤️. <br />
 	Besides my job, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
 </h4-->
-<br>
+
 <!--div align="center">
   <a href="https://open.spotify.com/track/6zNWCirgbJ9nkwZlVeMY3T?si=99f486d122684fde">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
@@ -25,8 +25,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 
 
 
-## ⚡ Recent GitHub Activity
-<a href="https://github.com/gencbirserhat"><img alt="Serhat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gencbirserhat&custom_title=Jay's%20Contribution%20Graph&theme=react-dark" /></a>
+
 
 
 <hr/>
