@@ -12,11 +12,11 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 	Besides my job, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
 </h4>
 <br>
-<div align="center">
+<!--div align="center">
   <a href="https://open.spotify.com/track/6zNWCirgbJ9nkwZlVeMY3T?si=99f486d122684fde">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
-</div >
+</div -->
 <hr/> 
 
 ## 🔥 Streak Stats & Languages
