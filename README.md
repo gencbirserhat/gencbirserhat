@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/gencbirserhat"><img src="https://readme-typing-svg.herokuapp.com?lines=JR.+Full-Stack+Developer;JavaScript%20|%20.NET%20|%20React%20|%20Python(DJango)%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<hr/>
+
 <!-- I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
 
 <!--h4 align="center">
@@ -17,7 +17,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div -->
-<hr/> 
+
 
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gencbirserhat&theme=algolia" alt="gencbirserhat" /></p>
