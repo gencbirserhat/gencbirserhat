@@ -28,7 +28,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 
 
 
-<hr/>
+
 
 ## 🐍
   <br>
@@ -36,7 +36,6 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
   <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
-<hr/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
