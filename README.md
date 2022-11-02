@@ -45,7 +45,7 @@ I'm a Front End Developer based in India 🙏, I am passionate about open-source
 	<a href="https://www.linkedin.com/in/serhat-gen%C3%A7-b9257724b/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href="https://twitter.com/gencbirserhat"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
 	<a href="https://stackoverflow.com/users/17303280/serhat-gen%c3%a7"><img src="https://img.icons8.com/bubbles/50/000000/module.png" title='Stack Overflow' alt="stack overflow"/></a>
-	<a href="instagram.com/gencbirserhat"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/gencbirserhat/"img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 	
 </p>
