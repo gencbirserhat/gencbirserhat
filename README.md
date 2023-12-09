@@ -5,37 +5,9 @@
   <a href="https://github.com/gencbirserhat"><img src="https://readme-typing-svg.herokuapp.com?lines=JR.+Mobile+App+Dev.;%20.NET%20|%20ReactJS%20;%20Java(Spring+Boot)|%20Flutter+With+Dart%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<!-- I am a Junior at Fr. CRCE pursuing B.E. in CSE. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity. -->
-
-<!--h4 align="center">
-I'm a Front End Developer based in India 🙏, I am passionate about open-source, coding, and web technologies❤️. <br />
-	Besides my job, I like to create and contribute to open source projects. It helps me learn a lot and grow as a developer while also supporting other open source projects.
-</h4-->
-
-<!--div align="center">
-  <a href="https://open.spotify.com/track/6zNWCirgbJ9nkwZlVeMY3T?si=99f486d122684fde">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div -->
-
-
 ## 🔥 Streak Stats & Languages
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gencbirserhat&theme=algolia" alt="gencbirserhat" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gencbirserhat&theme=algolia&layout=compact" alt="gencbirserhat" /></p>
-
-
-
-
-
-
-
-
-## 🐍
-  <br>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/jaypavasiya/jaypavasiya/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
