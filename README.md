@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi , I'm Serhat Genç <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/gencbirserhat"><img src="https://readme-typing-svg.herokuapp.com?lines=JR.+Mobile+App+Dev.;%20React-Native%20|%20ReactJS%20|%20Spring Framework%20;%20Java%20|%20Python%20|%20Javascript%20|%20Typescript%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/gencbirserhat"><img src="https://readme-typing-svg.herokuapp.com?lines=JR.+Mobile+App+Dev.;%20React-Native%20|%20ReactJS%20|%20Spring%20;%20Java%20|%20Python%20|%20Javascript%20|%20Typescript%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 ## 🔥 Streak Stats & Languages
