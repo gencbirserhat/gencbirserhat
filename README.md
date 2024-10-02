@@ -6,7 +6,7 @@
 </p>
 
 ## 🔥 Streak Stats & Languages
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gencbirserhat&theme=algolia" alt="gencbirserhat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gencbirserhat&theme=dark" alt="gencbirserhat" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gencbirserhat&theme=algolia&layout=compact" alt="gencbirserhat" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
